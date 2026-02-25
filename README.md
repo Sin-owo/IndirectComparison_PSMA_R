@@ -1,6 +1,6 @@
 # MAIC_mCRPC_Lu177_vs_Cabazitaxel
 
-[![R](https://img.shields.io/badge/R-4.3.0-blue)](https://www.r-project.org/)
+[![R](https://img.shields.io/badge/R-4.4.1-blue.svg)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ##  项目简介
